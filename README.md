@@ -24,9 +24,7 @@ There are a lot of free and well outlined learning resources online for your des
 
 
 Also, try out CodePen.
-<iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></iframe>
+https://codepen.io/team/codepen/embed/preview/PNaGbb
+
 
 
